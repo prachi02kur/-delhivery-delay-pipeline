@@ -1,0 +1,1 @@
+print(top3.map(lambda v: f"{v:.4f}"))
